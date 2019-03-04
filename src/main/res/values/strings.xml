@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Terminal</string>
+    <string name="facebook_app_id">404170173491645</string>
+    <string name="fb_login_protocol_scheme">fb404170173491645</string>
+</resources>

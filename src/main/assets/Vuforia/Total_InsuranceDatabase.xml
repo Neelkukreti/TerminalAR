@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ExtraMarker_05" size="6.000000 4.281334" />
+    <ImageTarget name="ExtraMarker_04" size="6.000000 4.440214" />
+    <ImageTarget name="ExtraMarker_03" size="6.000000 9.652563" />
+    <ImageTarget name="ExtraMarker_02" size="9.000000 9.763251" />
+    <ImageTarget name="Terminal_01" size="6.000000 8.640845" />
+    <ImageTarget name="ExtraMarker_01" size="6.000000 4.013672" />
+    <ImageTarget name="CustomerSupport" size="6.000000 3.300000" />
+    <ImageTarget name="CarInsurance" size="6.000000 4.047399" />
+    <ImageTarget name="LifeInsurance" size="6.000000 4.498123" />
+    <ImageTarget name="AccidentInsurance" size="6.000000 4.500000" />
+    <ImageTarget name="HomeInsurance" size="6.000000 4.590566" />
+    <ImageTarget name="Terminal" size="6.000000 4.406250" />
+  </Tracking>
+</QCARConfig>
